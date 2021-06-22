@@ -5,3 +5,9 @@ For this implementation the [MNIST](https://en.wikipedia.org/wiki/MNIST_database
 
 The code can be used with ` python main() --n_source=10 --n_target=5`, where the arguments represent the number of samples per class in the source and target domain respectively.
 
+## Dependencies
+* python=3.7.6
+* tensorflow=2.1.0=gpu
+* matplotlib=3.1.3
+* h5py=2.10.0
+* numpy=1.18.1
